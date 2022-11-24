@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'quickjobs',
-  url: 'quickjobs-docs-dev.herokuapp.com',
+  url: 'https://quickjobs-docs-dev.herokuapp.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
