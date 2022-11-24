@@ -11,7 +11,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/Logo-quickjobs.png',
+  favicon: 'img/quickjobs-logo.png',
 
 
   organizationName: 'facebook', // Usually your GitHub org/user name.
@@ -48,7 +48,7 @@ const config = {
         title: 'quickjobs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo-quickjobs.png',
+          src: 'img/quickjobs-logo.png',
         },
         items: [
           {
