@@ -6,8 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: true,
+        language: "en",
+        hashed: true
+      }
+    ],
+  ],
   title: 'quickjobs',
-  url: 'quickjobs.app',
+  url: 'http://localhost:3000/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -22,7 +34,15 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs:{
+      en: {
+        htmlLang: 'en-GB',
+      },
+      es:{
+        label: 'Español',
+      }
+    }
   },
 
   presets: [
@@ -33,6 +53,10 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        // blog: {
+        //   showReadingTime: true,
+        //   editUrl: 'https://github.com/facebook/docusaurus/edit/master',
+        // }, 
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,8 +80,11 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Help',
-          },         
-          
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          }
           
         ],
         

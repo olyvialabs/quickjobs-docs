@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "quickjobs",
+    "description": "The title in the navbar"
+  },
+  "item.label.Help": {
+    "message": "Ayuda",
+    "description": "Navbar item with label Help"
+  }
+}

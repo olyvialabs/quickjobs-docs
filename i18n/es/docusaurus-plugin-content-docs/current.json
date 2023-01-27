@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.mySidebar.category.Account": {
+    "message": "Cuenta",
+    "description": "The label for category Account in sidebar mySidebar"
+  },
+  "sidebar.mySidebar.category.Company profile": {
+    "message": "Perfil de la compañia",
+    "description": "The label for category Company profile in sidebar mySidebar"
+  },
+  "sidebar.mySidebar.category.Security": {
+    "message": "Seguridad",
+    "description": "The label for category Security in sidebar mySidebar"
+  },
+  "sidebar.mySidebar.category.Vacancy application": {
+    "message": "Solicitud de la vacante",
+    "description": "The label for category Vacancy application in sidebar mySidebar"
+  }
+}
