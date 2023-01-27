@@ -19,7 +19,7 @@ const config = {
     ],
   ],
   title: 'quickjobs',
-  url: 'http://localhost:3000/',
+  url: 'https://quickjobs-docs.herokuapp.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
