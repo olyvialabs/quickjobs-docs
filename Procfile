@@ -1,1 +1,1 @@
-yarn serve -- -p $PORT
+npm run serve -- -p $PORT
