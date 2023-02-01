@@ -7,7 +7,7 @@ tags:
 
 # Administrar datos personales
 
-Para administrar tus datos personales, primero asegúrate de haber iniciado sesión, accede a tu página de perfil a través de la siguiente ruta.
+Para administrar tus datos personales, primero asegúrate de haber iniciado sesión, accede a tu perfil a través de la siguiente ruta.
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />
@@ -19,7 +19,7 @@ Aquí, accede a tu perfil.
   <img src="/img/manage-personal-data/profile.png" width="300" />
 </p>
 
-En la página de perfil, haz clic en <span style={{color : '#f97316'}}>**Editar perfil**</span>.
+En tu perfil, haz clic en <span style={{color : '#f97316'}}>**Editar perfil**</span>.
 
 <p align="center">
   <img src="/img/manage-personal-data/edit-profile.png" width="300" />
