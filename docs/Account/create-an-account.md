@@ -30,6 +30,13 @@ On the phone, click on menu icon located in the lower right corner.
   <img src="/img/create-account/menu-button.png" width="300" />
 </p>
 
+In this submenu click on "Log in"
+
+<p align="center">
+  <img src="/img/create-account/submenu-button.png" width="300" />
+</p>
+
+
 Complete the filds and press <span style={{color : '#f97316'}}>**Create account**</span>.
 
 <p align="center">
