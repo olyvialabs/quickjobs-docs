@@ -23,7 +23,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/Logo-quickjobs.png',
+  favicon: 'img/favicon-quickjobs.svg',
 
 
   organizationName: 'facebook', // Usually your GitHub org/user name.
