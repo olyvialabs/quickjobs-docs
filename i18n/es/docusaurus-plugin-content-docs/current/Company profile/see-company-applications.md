@@ -9,7 +9,7 @@ tags:
 
 ## Móvil
 
-Para ver tus solicitudes de vacantes, primero asegúrate de haber iniciado sesión, luego ve a <span style={{color : '#f97316'}}>**Solicitudes**</span>.
+Puedes acceder Para ver tus solicitudes de vacantes, primero asegúrate de haber iniciado sesión, luego ve a <span style={{color : '#f97316'}}>**Solicitudes**</span>.
 
 <p align="center">
   <img src="/img/see-applications/applications.png" width="300" />

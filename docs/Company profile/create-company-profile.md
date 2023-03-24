@@ -6,7 +6,7 @@ tags:
 
 # Creating company profile
 
-To create a company profile you have to access the user profile page through the following path.
+Puedes crear un perfil de compañia para crear las vacantes para tu empresa. to create a company profile you have to access to de user profile page through the followin path. first access to setting
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />
@@ -24,7 +24,7 @@ On profile page click <span style={{color : '#f97316'}}>**Create company profile
   <img src="/img/create-company-profile/create-company-profile.png" width="300" />
 </p>
 
-Complete the filds and click <span style={{color : '#f97316'}}>**Save**</span>.
+Complete the filds with your company information and click <span style={{color : '#f97316'}}>**Save**</span>.
 
 <p align="center">
   <img src="/img/create-company-profile/create-company-profile-2.png" width="300" />

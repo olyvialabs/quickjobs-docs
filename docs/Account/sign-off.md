@@ -7,13 +7,13 @@ tags:
 
 # Sign off
 
-To close session to go <span style={{color : '#f97316'}}>**Settings**</span>.
+If want to close session access to <span style={{color : '#f97316'}}>**Settings**</span>.
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />
 </p>
 
-Then click <span style={{color : '#f97316'}}>**Sign off**</span>.
+and just click <span style={{color : '#f97316'}}>**Sign off**</span>.
 
 <p align="center">
   <img src="/img/sign-off/sign-off.png" width="300" />

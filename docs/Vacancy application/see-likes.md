@@ -7,7 +7,7 @@ tags:
 
 # See likes
 
-To see all the likes that you have given just visit <span style={{color : '#f97316'}}>**Settings**</span>.
+To see all the likes you've given, simply visit the <span style={{color : '#f97316'}}>**Settings**</span> page. 
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />

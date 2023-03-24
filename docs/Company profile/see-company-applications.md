@@ -9,7 +9,7 @@ tags:
 
 ## Mobile
 
-To view your vacancy applications first make sure you are logged in, then go to <span style={{color : '#f97316'}}>**Applications**</span>.
+You can access to your vacncy applications, to view your vacancy applications first make sure you are logged in acces to <span style={{color : '#f97316'}}>**Applications**</span> the settings menu.
 
 <p align="center">
   <img src="/img/see-applications/applications.png" width="300" />
@@ -29,7 +29,7 @@ Here you can view all applications.
 
 ## Desktop
 
-To view your vacancy applications first make sure you are logged in, <span style={{color : '#f97316'}}>**Applications**</span>.
+To view your vacancy applications first make sure you are logged in, go to<span style={{color : '#f97316'}}>**Applications**</span>.
 
 <p align="center">
   <img src="/img/see-applications/applications-desktop.png" width="300" />

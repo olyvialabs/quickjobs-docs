@@ -6,7 +6,7 @@ tags:
 
 # Creando perfil de la compañia
 
-Para crear un perfil de empresa, debes acceder a la página de perfil de la siguiente manera
+Puedes crear un perfil de compañia para crear las vacantes para tu empresa. Para crear un perfil de empresa, debes acceder a la página de perfil de la siguiente manera
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />

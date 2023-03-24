@@ -7,7 +7,7 @@ tags:
 
 # Crear una nueva vacante
 
-Desde tu página de perfil, selecciona la empresa donde se generará la nueva vacante.
+Aqui puede crear una vacante para una de tus compañias. Desde tu página de perfil, selecciona la empresa donde se generará la nueva vacante.
 
 <p align="center">
   <img src="/img/create-company-profile/manage-company-profile.png" width="300" />

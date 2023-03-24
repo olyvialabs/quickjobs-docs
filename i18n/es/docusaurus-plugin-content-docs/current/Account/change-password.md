@@ -6,7 +6,6 @@ tags:
 ---
 
 # Cambiar contraseña
-
 ¿Olvidaste tu contraseña o tienes problemas para iniciar sesión? Es hora de restablecerla. Ve a <span style={{color : '#f97316'}}>**Configuración**</span>.
 
 <p align="center">

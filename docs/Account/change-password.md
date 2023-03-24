@@ -7,7 +7,8 @@ tags:
 
 # Change password
 
-Forget your password or having trouble logging in? Time for a reset. Go to <span style={{color : '#f97316'}}>**Settings**</span>.
+Forget your password or having trouble logging in? Time for a reset.
+Access to <span style={{color : '#f97316'}}>**Settings**</span>.
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />

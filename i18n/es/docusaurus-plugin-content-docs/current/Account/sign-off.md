@@ -7,7 +7,7 @@ tags:
 
 # Cerrar sesión
 
-Para cerrar la sesión, ve a <span style={{color : '#f97316'}}>**Configuración**</span>.
+Si desas cerrar tu sesión,accede a <span style={{color : '#f97316'}}>**Configuración**</span>.
 
 <p align="center">
   <img src="/img/create-account/menu-button.png" width="300" />

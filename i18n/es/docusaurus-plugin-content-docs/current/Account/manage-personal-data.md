@@ -25,7 +25,7 @@ En tu perfil, haz clic en <span style={{color : '#f97316'}}>**Editar perfil**</s
   <img src="/img/manage-personal-data/edit-profile.png" width="300" />
 </p>
 
-Aquí puedes administrar toda la información personal.
+Aquí puedes ver toda tu informacion y tambien puedes administrar toda la información personal.
 
 <p align="center">
   <img src="/img/manage-personal-data/edit-profile-2.png" width="300" />
