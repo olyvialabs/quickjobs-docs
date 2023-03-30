@@ -6,4 +6,14 @@ sidebar_position: 1
 
 # Manual de usuario para quickjobs
 
-Bienvenido a QuickJobs, la aplicación de trabajo más fácil de usar. Aquí aprenderás a sacar el máximo provecho de esta herramienta. Con QuickJobs, en solo unos segundos podrás solicitar tu primer trabajo y comenzar a explorar todas sus posibilidades. ¡Empecemos!
+¡Bienvenido/a a la guía de usuario de Quickjobs! la aplicación de trabajo más fácil de usar, esta guía ha sido diseñada para ayudarte a aprovechar al máximo todas las características y funciones que ofrece nuestra app.
+
+En esta guía encontrarás información detallada sobre cómo utilizar la aplicación para buscar empleo, cómo aplicar a las ofertas de trabajo, y si eres empleador, como crear vacantes, reclutar y mucho más.
+
+Nuestra aplicación está diseñada para ayudarte a encontrar el trabajo perfecto para ti de una manera fácil y rápida. Ya sea que estés buscando trabajo a tiempo completo, medio tiempo o temporal, nuestra aplicación tiene miles de ofertas de trabajo disponibles en todo el país.
+
+¡Esperamos que disfrutes usando nuestra aplicación tanto como nosotros disfrutamos creándola!
+
+<p align="center">
+  <img src="/img/intro/banner_es.png" width="100%" />
+</p>
