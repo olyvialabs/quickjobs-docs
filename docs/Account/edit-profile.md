@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 tags:
   - Account
   - Getting started
@@ -25,7 +25,7 @@ On profile page, click on <span style={{color : '#f97316'}}>**Edit profile**</sp
   <img src="/img/manage-personal-data/edit-profile.png" width="300" />
 </p>
 
-Here you can see your information and manage  all personal information.
+Here you can see your information and manage all personal information.
 
 <p align="center">
   <img src="/img/manage-personal-data/edit-profile-2.png" width="300" />
