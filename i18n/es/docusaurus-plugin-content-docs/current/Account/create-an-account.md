@@ -77,7 +77,7 @@ Si ya tienes una cuenta de Google, ingresa tus credenciales de inicio de sesión
 La primera vez que lo hagas te aparecera el modal de confirmacion de google. Solo da clic en <span style={{color : '#f97316'}}>**Confirmar**</span>.
 
 <p align="center">
-  <img src="/img/create-account/google_confirm_es.png" width="90%" />
+  <img src="/img/create-account/google_confirm_en.png" width="90%" />
 </p>
 
 Despues de esto te redireccionara al home de quickjobs.
