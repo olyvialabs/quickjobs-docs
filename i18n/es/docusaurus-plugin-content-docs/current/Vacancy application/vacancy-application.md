@@ -11,7 +11,7 @@ Hay dos formas de explorar las vacantes en nuestro menú. La primera es navegand
 
 ## Modo explorar
 
-En la pantalla de inicio de la aplicación, encontrarás la sección de "Explore" donde puedes navegar a través de todas las vacantes disponibles. Si haces clic en una vacante, podrás ver todos los detalles y requisitos de la misma, incluyendo la descripción del trabajo, el salario, la ubicación y mas. Esta ventana te permite explorar todas las vacantes de manera rápida y fácil, y encontrar aquellas que sean de tu interés. Ademas, si quieres hacer una busqueda personalizada aca te lo explico: [Filtros de busqueda](../Account/edit-profile).
+En la pantalla de inicio de la aplicación, encontrarás la sección de "Explore" donde puedes navegar a través de todas las vacantes disponibles. Si haces clic en una vacante, podrás ver todos los detalles y requisitos de la misma, incluyendo la descripción del trabajo, el salario, la ubicación y mas. Esta ventana te permite explorar todas las vacantes de manera rápida y fácil, y encontrar aquellas que sean de tu interés. Ademas, si quieres hacer una busqueda personalizada aca te lo explico: [Filtros de busqueda](../Vacancy%20application/search).
 
 <p align="center">
   <img src="/img/vacancy-application/vacancy-application.png" width="300" />
