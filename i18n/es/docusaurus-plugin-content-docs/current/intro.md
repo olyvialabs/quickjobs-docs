@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Inicio
-
-# Manual de usuario para quickjobs
+# Introducción
 
 ¡Bienvenido/a a la guía de usuario de Quickjobs! la aplicación de trabajo más fácil de usar, esta guía ha sido diseñada para ayudarte a aprovechar al máximo todas las características y funciones que ofrece nuestra app.
 
