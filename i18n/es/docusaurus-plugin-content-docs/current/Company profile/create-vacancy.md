@@ -7,7 +7,24 @@ tags:
 
 # Crear una nueva vacante
 
-Aqui puede crear una vacante para una de tus compañias. Desde tu página de perfil, selecciona la empresa donde se generará la nueva vacante.
+¡Excelente noticia! Ahora, en Quickjobs, puedes crear vacantes para cualquiera de tus empresas. Simplemente dirígete a tu página de perfil y selecciona la empresa en la que deseas crear la nueva vacante. Esto te permitirá encontrar al mejor talento para tu empresa de manera más efectiva y eficiente. ¡No pierdas la oportunidad de llevar a tu empresa al siguiente nivel con Quickjobs!
+
+
+## Desktop
+
+Great! You can access your  <span style={{color : '#f97316'}}>**profile**</span> page by clicking on your avatar located in the bottom left corner of the screen. 
+
+<p align="center">
+  <img src="/img/manage-personal-data/profile-setting-desktop-en.png" width="300" />
+</p>
+
+In the <span style={{color : '#f97316'}}>**Companies**</span> section, select the company for which you want to create the job opening.
+<p align="center">
+  <img src="/img/create-company-profile/manage-company-profile-desktop-en.png" width="65%" />
+</p>
+
+Once you have selected the company, a small interface with information about that company will appear. Click on the <span style={{color : '#f97316'}}>**Create vacancy**</span> button and fill in the required fields.
+
 
 <p align="center">
   <img src="/img/create-company-profile/manage-company-profile.png" width="300" />

@@ -1,6 +1,6 @@
 ---
 title: Creating account
-sidebar_position: 2
+sidebar_position: 3
 tags:
   - Account
   - Getting started

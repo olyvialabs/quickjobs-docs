@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 7
 tags:
   - Explore vacancies
   - First apply
@@ -7,21 +7,17 @@ tags:
 
 # Apply for a job vacancy
 
-## Explorer mode
+There are two ways to browse vacancies on our menu. The first is by browsing through the vacancies that appear on the home screen. To access the details of a vacancy, simply click on it. The second way is through the "swipe" mode similar to dating apps, where you can quickly apply to vacancies by swiping the cards. Below, I will explain both ways so you can choose the one that best suits your needs.
 
-There are two ways to browse the vacancies menu, the first is to simply browse through the vacancies displayed on the home screen, where to access the details of a vacancy just click on it.
+## Explore mode
+
+On the home screen of the application, you will find the "Explore" section where you can browse through all available job vacancies. If you click on a job, you will be able to view all the details and requirements, including the job description, salary, location, and more. This window allows you to quickly and easily explore all job vacancies and find those that are of interest to you. Additionally, if you want to make a customized search, I'll explain it to you here: [Search filters](../Account/edit-profile).
 
 <p align="center">
   <img src="/img/vacancy-application/vacancy-application.png" width="300" />
 </p>
 
-Then a vacancy will be displayed with the most important details about it. To apply just click <span style={{color : '#f97316'}}>**Apply vacancy**</span>.
-
-<p align="center">
-  <img src="/img/vacancy-application/vacancy-application-2.png" width="300" />
-</p>
-
-Some vacancies, by company requirement, will have a couple of simple questions. You must answer and send with <span style={{color : '#f97316'}}>**Submit Application**</span>.
+Once you access the detailed information of a job vacancy and if you are interested, you can click on "Apply for job". Immediately, a short [poll](../Vacancy%20application/poll) with simple questions will appear. Once you answer the questions, just click on "Submit application" and the process will be completed.
 
 <p align="center">
   <img src="/img/vacancy-application/vacancy-poll.png" width="300" />
@@ -33,40 +29,22 @@ After answering the poll you will see this success message.
   <img src="/img/vacancy-application/success-application.png" width="300" />
 </p>
 
-## Slice mode
+## Swipe mode
 
-The other way to browse vacancies is to click on the icon in the upper right corner.
+At Quickjobs, we offer a card-swiping exploration mode similar to the "swipe" feature in dating apps. If you're interested in a vacancy, simply swipe the card to the right to access the application process. If you're not interested, swipe the card to the left to reject the vacancy. This feature allows you to quickly browse through all available job vacancies and select the ones that interest you the most.
+
+To access the swipe mode, click on the icon located in the top right corner.
 
 <p align="center">
   <img src="/img/vacancy-application/slice-icon.png" width="300" />
 </p>
 
-Then a vacancy will be displayed with the most important details about it. We will have three options, decline it, copy the link to share it or like it. What is a like? A like is the way you can apply to a vacancy in an easy way, without paperwork and complications. Just click on the like icon or swipe the screen to the right.
-
 <p align="center">
-  <img src="/img/vacancy-application/like.png" width="300" />
+  <img src="/img/vacancy-application/swipe_mode.png" width="300" />
 </p>
 
-If you are not interested in the vacancy, to discard it, simply click on the X icon or swipe the screen to the left.
+In addition, there are three buttons located at the bottom of each card: the upward pointing hand button is to apply for the vacancy, the "x" button is to reject it, and the middle button is to share the vacancy with a friend.
 
 <p align="center">
-  <img src="/img/vacancy-application/decline.png" width="300" />
-</p>
-
-If the vacancy does't interest you but you think a friend or family member might be interested, just click on the button below to copy the link and share it.
-
-<p align="center">
-  <img src="/img/vacancy-application/share.png" width="300" />
-</p>
-
-Also, you can share the vacancy on facebook for all our friends to see.
-
-<p align="center">
-  <img src="/img/vacancy-application/share-facebook.png" width="300" />
-</p>
-
-To learn more about the company that advertised the vacancy, just click <span style={{color : '#f97316'}}>**View Company Profile**</span>.
-
-<p align="center">
-  <img src="/img/vacancy-application/view-company.png" width="300" />
+  <img src="/img/vacancy-application/swipe_buttons.png" width="300" />
 </p>
