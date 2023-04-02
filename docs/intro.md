@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Introduction
-slug: /
+slug: /intro
 ---
 
 # Introduction
