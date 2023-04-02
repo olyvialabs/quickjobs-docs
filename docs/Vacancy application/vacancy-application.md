@@ -11,7 +11,7 @@ There are two ways to browse vacancies on our menu. The first is by browsing thr
 
 ## Explore mode
 
-On the home screen of the application, you will find the "Explore" section where you can browse through all available job vacancies. If you click on a job, you will be able to view all the details and requirements, including the job description, salary, location, and more. This window allows you to quickly and easily explore all job vacancies and find those that are of interest to you. Additionally, if you want to make a customized search, I'll explain it to you here: [Search filters](../Account/edit-profile).
+On the home screen of the application, you will find the "Explore" section where you can browse through all available job vacancies. If you click on a job, you will be able to view all the details and requirements, including the job description, salary, location, and more. This window allows you to quickly and easily explore all job vacancies and find those that are of interest to you. Additionally, if you want to make a customized search, I'll explain it to you here: [Search filters](../Vacancy%20application/search).
 
 <p align="center">
   <img src="/img/vacancy-application/vacancy-application.png" width="300" />
