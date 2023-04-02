@@ -7,21 +7,24 @@ tags:
 
 # Sign off
 
+Time to say goodbye! But don't worry, logging out of QuickJobs.app is easy as pie 🍰. Follow our steps and you'll be out in no time
 ## Desktop
-If want to close session access to <span style={{color : '#f97316'}}>**Settings**</span>.
+Go to the profile section by clicking on your avatar in the lower left corner of the screen.
 
 <p align="center">
   <img src="/img/create-account/create_account_login_en.png" width="90%" />
 </p>
 
-and just click <span style={{color : '#f97316'}}>**Sign off**</span>.
+In the profile menu, click on "Log out" <span style={{color : '#f97316'}}>**Sign off**</span>.
 
 <p align="center">
   <img src="/img/sign-off/log_out_desktop_en.png" width="300" />
 </p>
 
+It's that easy! Now you can log out of QuickJobs.app with confidence and move on with your day 😶‍🌫️.
+
 ## Mobile
-If want to close session access to <span style={{color : '#f97316'}}>**Settings**</span>.
+Go to the profile section by clicking on your avatar in the lower right corner of the screen.
 
 <p align="center">
   <img src="/img/manage-personal-data/manage_personal_data_mobile_en.png" width="300" />
@@ -32,3 +35,5 @@ and just click <span style={{color : '#f97316'}}>**Sign off**</span>.
 <p align="center">
   <img src="/img/sign-off/sign-off.png" width="300" />
 </p>
+
+It's that easy! Now you can log out of QuickJobs.app with confidence and move on with your day 😶‍🌫️.
