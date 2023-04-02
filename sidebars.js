@@ -105,6 +105,18 @@ const sidebars = {
           type: 'doc',
           id: 'Tips/how-to-start',
         },
+        {
+          type: 'doc',
+          id: 'Tips/keep-updated',
+        },
+        {
+          type: 'doc',
+          id: 'Tips/what-do-companies-see',
+        },
+        {
+          type: 'doc',
+          id: 'Tips/delete-my-account',
+        },
       ],
     },
     

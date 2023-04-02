@@ -19,7 +19,7 @@ const config = {
     ],
   ],
   title: 'quickjobs',
-  url: 'https://quickjobs-docs.herokuapp.com/',
+  url: 'https://help.quickjobs.app/docs/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
