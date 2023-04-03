@@ -5,7 +5,7 @@ tags:
   - Desktop
 ---
 
-# Vacancy applications
+# Manage applications
 
 ## Mobile
 

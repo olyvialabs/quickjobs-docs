@@ -28,7 +28,7 @@ There are different fields that you can fill in with new information. Just click
   <img src="/img/manage-personal-data/edit-profile-2-desktop-en.png" width="90%" />
 </p>
 
-"Full name", "User name", and "Profession/Role" are the simplest fields to complete when setting up your profile. Just fill in the required information and click <span style={{color : '#f97316'}}>**save**</span> to update your profile, as shown in the example image.
+In <span style={{color : '#f97316'}}>**Full name, User name, and Profession/Role**</span> are the simplest fields to complete when setting up your profile. Just fill in the required information and click <span style={{color : '#f97316'}}>**save**</span> to update your profile, as shown in the example image.
 
 <p align="center">
   <img src="/img/manage-personal-data/profile-edit-1-desktop-en.png" width="65%" />
@@ -52,7 +52,7 @@ Once you've selected your location, simply click <span style={{color : '#f97316'
 </p>
 
 
-The final stage before completing your profile! This is where you can add additional information about yourself and your skills. Show off your personality, career goals, and what makes you an exceptional candidate! In "Description," "Skills," and "Schema," you can include everything potential employers need to know to hire you.
+The final stage before completing your profile! This is where you can add additional information about yourself and your skills. Show off your personality, career goals, and what makes you an exceptional candidate! In <span style={{color : '#f97316'}}>**Description, Skills and Schema**</span> you can include everything potential employers need to know to hire you.
 
 <p align="center">
   <img src="/img/manage-personal-data/profile-edit-3-desktop-en.png" width="65%" />

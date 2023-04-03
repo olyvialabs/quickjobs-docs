@@ -47,7 +47,7 @@ To create a company profile you have to access to your profile page through the 
 On profile page click <span style={{color : '#f97316'}}>**Create company profile**</span>.
 
 <p align="center">
-  <img src="/img/create-company-profile/create-company-profile.png" width="300" />
+  <img src="/img/create-company-profile/manage-company-profile-mobile-en.png" width="300" />
 </p>
 
 Get your company on the map! Fill out the fields below with your company's vital info, including name, username, website, description, and location. Don't forget to double-check your entries before submitting.
@@ -63,3 +63,5 @@ Complete the filds with your company information and click <span style={{color :
 <p align="center">
   <img src="/img/create-company-profile/manage-company-profile.png" width="300" />
 </p>
+
+Congratulations!🥳🥳 Now that you've created your company, you can easily manage it from your profile page.

@@ -15,7 +15,7 @@ Go to the profile section by clicking on your avatar in the lower left corner of
   <img src="/img/create-account/create_account_login_en.png" width="90%" />
 </p>
 
-In the profile menu, click on "Log out" <span style={{color : '#f97316'}}>**Sign off**</span>.
+In the profile menu, click on <span style={{color : '#f97316'}}>**Sign off**</span>.
 
 <p align="center">
   <img src="/img/sign-off/log_out_desktop_en.png" width="300" />

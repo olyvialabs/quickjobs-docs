@@ -20,10 +20,8 @@ En la pagina de perfil da clic en <span style={{color : '#f97316'}}>**Crear perf
 
 ¡Pon tu empresa en el mapa! Completa los campos a continuación con la información vital de tu empresa, incluyendo nombre, nombre de usuario, sitio web, descripción y ubicación. No olvides revisar tus entradas antes de enviarlas. ¿Listo para presentarte de la mejor manera? ¡Haz clic en ese botón y empecemos!
 
-Complete los archivos con la información de su empresa y haga clic en <span style={{color : '#f97316'}}>**Crear perfil de empresa**</span>.
+Complete los campos con la información de su empresa y haga clic en <span style={{color : '#f97316'}}>**Guardar**</span>.
 
-
-Complete los campos y haga clic en <span style={{color : '#f97316'}}>**Guardar**</span>.
 
 <p align="center">
   <img src="/img/create-company-profile/create-company-profile-2.png" width="300" />
