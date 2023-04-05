@@ -91,10 +91,14 @@ const sidebars = {
           type: 'doc',
           id: 'Company profile/manage-companies',
         },
-        // {
-        //   type: 'doc',
-        //   id: 'Company profile/manage-applicactions',
-        // },
+        {
+          type: 'doc',
+          id: 'Company profile/manage-vacancy',
+        },
+        {
+          type: 'doc',
+          id: 'Company profile/manage-applications',
+        },
       ],
     },
     {

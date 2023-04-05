@@ -5,62 +5,63 @@ tags:
   - First vacancy
 ---
 
-# Manage companies
+# Manage vacancy
 
-Managing your company profile on QuickJobs is essential to attract top talent and stand out in the job market. By keeping your profile updated and complete, you can show candidates what makes your company special and why they should work with you. It also allows you to connect with the right candidates for your business needs. Don't underestimate the importance of managing your company profile on QuickJobs!
+Remember that it's important to keep your job postings updated and well-managed to attract top candidates and ensure that your company is successful in talent acquisition. I hope this guide is helpful for you!😊
 
-To manage your companies first make sure you are logged in, then go to <span style={{color : '#f97316'}}>**Profile**</span>.
 
-<p align="center">
-  <img src="/img/manage-personal-data/profile-setting-desktop-en.png" width="300" />
-</p>
-
-On the QuickJobs profile page, you will find the <span style={{color : '#f97316'}}>**"Profiles you manage"**</span> section at the bottom. From here, you can click on the company you want to manage to access its profile and make changes.
+## Desktop
+To manage your vacancies effectively, it is important that you log into your QuickJobs account and access the <span style={{color : '#f97316'}}>**Vacancies**</span> section.
 
 <p align="center">
-  <img src="/img/manage-companies/company-profile-desktop-en.png" width="65%" />
+  <img src="/img/manage-vacancy/go-to-vacancy-desktop-en.png" width="90%"/>
 </p>
 
-In this section, you can view your company profile, where you can edit your company's information, review job applications, and manage the job vacancies you have created for that company. It's important to keep your company profile up-to-date to attract the best candidates and stand out in the job market!
+There you can see all the vacancies that you have created, which are grouped by company. From this section, you can edit any vacancy information, including the title, description, requirements, and location.
 
 <p align="center">
-  <img src="/img/manage-companies/manage-companies-desktop-en.png" width="65%" />
+  <img src="/img/manage-vacancy/vacancies-list-desktop-en.png" width="65%"/>
 </p>
 
-By clicking on <span style={{color : '#f97316'}}>**Edit profile**</span>, you can update and modify your company's information and save changes with just one click.
+If you're looking for the best candidates, you need to make sure your job vacancies are attractive! One way to do this is by clicking on the job vacancy you want to edit. A modal will appear with all the information about the vacancy, where you can update the information and make it more eye-catching and appealing to candidates who are looking for employment in your company.
 
 <p align="center">
-  <img src="/img/manage-companies/edit-profile-company-desktop-en.png" width="65%" />
+  <img src="/img/manage-vacancy/vacancy-information-desktop-en.png" width="65%"/>
 </p>
 
-In this interface, you can also add an avatar for your company. Simply click on the current avatar of your company and select an image from your gallery. This will help your company stand out and make it more recognizable to potential candidates. Remember, first impressions are important, so make sure to have a professional and eye-catching avatar for your company.
+Once you have updated the information for your job opening, simply scroll down to the bottom of the window and click on "Edit job". This will ensure that the information for your job opening is up-to-date and looks more attractive to potential candidates.
 
 <p align="center">
-  <img src="/img/manage-companies/edit-avatar-company-desktop-en.png" width="200" />
+  <img src="/img/manage-vacancy/edit-vacancy-desktop-en.png" width="65%"/>
 </p>
 
-Updating the information of your companies is easy and fast. This will help you highlight your company and make it more recognizable to potential candidates interested in working with you. Keep your profile updated and attract the best talent!
+Remember, a well-managed and updated company profile is key to attracting the best candidates and building a successful business🥸👆
 
 
 ## Mobile
-<p align="center">
-  <img src="/img/manage-personal-data/profile.png" width="300" />
-</p>
 
-Access through to <span style={{color : '#f97316'}}>**Companies**</span>.
+To manage your vacancies effectively, it is important that you log into your QuickJobs account and access the <span style={{color : '#f97316'}}>**Vacancies**</span> section.
 
 <p align="center">
-  <img src="/img/manage-companies/manage-companies.png" width="300" />
+  <img src="/img/manage-vacancy/go-to-vacancy-mobile-en.png" width="300"/>
 </p>
 
-Here you can see the companies list.
+There you can see all the vacancies that you have created, which are grouped by company. From this section, you can edit any vacancy information, including the title, description, requirements, and location.
 
 <p align="center">
-  <img src="/img/manage-companies/manage-companies-2.png" width="300" />
+  <img src="/img/manage-vacancy/vacancies-list-mobile-en.png" width="300"/>
 </p>
 
-If you select the company, you will be able to see the vacancies.
+If you're looking for the best candidates, you need to make sure your job vacancies are attractive! One way to do this is by clicking on the job vacancy you want to edit. A modal will appear with all the information about the vacancy, where you can update the information and make it more eye-catching and appealing to candidates who are looking for employment in your company.
 
 <p align="center">
-  <img src="/img/manage-companies/vacancies.png" width="300" />
+  <img src="/img/manage-vacancy/vacancy-information-mobile-en.png" width="300"/>
 </p>
+
+Once you have updated the information for your job opening, simply scroll down to the bottom of the window and click on "Edit job". This will ensure that the information for your job opening is up-to-date and looks more attractive to potential candidates.
+
+<p align="center">
+  <img src="/img/manage-vacancy/edit-vacancy-desktop-en.png" width="65%"/>
+</p>
+
+Remember, a well-managed and updated company profile is key to attracting the best candidates and building a successful business🥸👆
