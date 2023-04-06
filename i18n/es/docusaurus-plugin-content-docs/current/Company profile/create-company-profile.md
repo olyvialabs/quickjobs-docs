@@ -27,11 +27,35 @@ Complete los campos con la información de su empresa y haga clic en <span style
   <img src="/img/create-company-profile/create-company-profile-2.png" width="300" />
 </p>
 
-🥳🥳 <span style={{color : '#f97316'}}>**¡Enhorabuena!**</span> 🥳🥳 Ahora que has creado tu empresa, puedes administrarla fácilmente desde tu página de perfil.
-
 <p align="center">
   <img src="/img/create-company-profile/manage-company-profile.png" width="300" />
 </p>
+
+
+También puedes crear una "empresa" desde la sección de vacantes con la misma facilidad 😮😮.
+
+Para crear una empresa de manera efectiva, es importante que inicies sesión en tu cuenta de QuickJobs y accedas a la sección <span style={{color : '#f97316'}}>**Vacantes**</span>.
+
+<p align="center">
+  <img src="/img/manage-vacancy/go-to-vacancy-desktop-es.png" width="90%"/>
+</p>
+
+
+Allí puedes ver todas las vacantes que has creado, las cuales están agrupadas por empresa. Desde esta sección, puedes crear cualquier empresa que necesites.
+
+<p align="center">
+  <img src="/img/manage-vacancy/vacancies-list-desktop-es.png" width="65%"/>
+</p>
+
+
+Si haces clic en "Crear empresa", se abrirá un formulario en el que deberás ingresar la información de la empresa que estás creando. Asegúrate de completar todos los campos obligatorios, como el nombre de la empresa, su dirección y su descripción. Una vez que hayas terminado de llenar el formulario, simplemente guarda la información y la nueva empresa se agregará a tu lista de empresas en un abrir y cerrar de ojos.
+Complete the filds with your company information and click <span style={{color : '#f97316'}}>**Save**</span>.
+
+<p align="center">
+  <img src="/img/create-company-profile/create-company-profile-2.png" width="300" />
+</p>
+
+🥳🥳 <span style={{color : '#f97316'}}>**¡Enhorabuena!**</span> 🥳🥳 Ahora que has creado tu empresa, puedes administrarla fácilmente desde tu página de perfil.
 
 ## Movil
 
@@ -60,3 +84,28 @@ Complete los campos y haga clic en <span style={{color : '#f97316'}}>**Guardar**
 <p align="center">
   <img src="/img/create-company-profile/manage-company-profile.png" width="300" />
 </p>
+
+También puedes crear una "empresa" desde la sección de vacantes con la misma facilidad 😮😮.
+
+Para crear una empresa de manera efectiva, es importante que inicies sesión en tu cuenta de QuickJobs y accedas a la sección <span style={{color : '#f97316'}}>**Vacantes**</span>.
+
+<p align="center">
+  <img src="/img/manage-vacancy/go-to-vacancy-mobile-es.png" width="90%"/>
+</p>
+
+
+Allí puedes ver todas las vacantes que has creado, las cuales están agrupadas por empresa. Desde esta sección, puedes crear cualquier empresa que necesites.
+
+<p align="center">
+  <img src="/img/manage-vacancy/vacancies-list-mobile-es.png" width="65%"/>
+</p>
+
+
+Si haces clic en "Crear empresa", se abrirá un formulario en el que deberás ingresar la información de la empresa que estás creando. Asegúrate de completar todos los campos obligatorios, como el nombre de la empresa, su dirección y su descripción. Una vez que hayas terminado de llenar el formulario, simplemente guarda la información y la nueva empresa se agregará a tu lista de empresas en un abrir y cerrar de ojos.
+Complete the filds with your company information and click <span style={{color : '#f97316'}}>**Save**</span>.
+
+<p align="center">
+  <img src="/img/create-company-profile/create-company-profile-2.png" width="300" />
+</p>
+
+🥳🥳 <span style={{color : '#f97316'}}>**¡Enhorabuena!**</span> 🥳🥳 Ahora que has creado tu empresa, puedes administrarla fácilmente desde tu página de perfil.

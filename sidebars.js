@@ -99,6 +99,10 @@ const sidebars = {
           type: 'doc',
           id: 'Company profile/manage-applications',
         },
+        {
+          type: 'doc',
+          id: 'Company profile/delete-company',
+        },
       ],
     },
     {
