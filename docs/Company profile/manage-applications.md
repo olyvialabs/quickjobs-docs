@@ -34,6 +34,18 @@ In this section, you can view the information of each person who has applied for
   <img src="/img/manage-applications/vacancy-applications-desktop-en.png" width="65%"/>
 </p>
 
+You can use filters to view applications in a more specific way. To do this, simply click on the menu located in the top right corner.
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-desktop-en.png" width="65%"/>
+</p>
+
+Here you can filter by vacancies, name, expected candidate responses, and date. Using these filters will help you select candidates more efficiently and quickly. Take advantage of this tool to optimize your selection process!
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-2-desktop-en.png" width="65%"/>
+</p>
+
 To select whether a candidate will be approved, archived, or reported, simply click on the three dots located at the top right of each vacancy.
 
 <p align="center">
@@ -82,6 +94,19 @@ In this section, you can view the information of each person who has applied for
 <p align="center">
   <img src="/img/manage-applications/vacancy-applications-mobile-en.png" width="300"/>
 </p>
+
+You can use filters to view applications in a more specific way. To do this, simply click on the menu located in the top right corner.
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-mobile-en.png" width="300"/>
+</p>
+
+Here you can filter by vacancies, name, expected candidate responses, and date. Using these filters will help you select candidates more efficiently and quickly. Take advantage of this tool to optimize your selection process!
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-2-mobile-en.png" width="300"/>
+</p>
+
 
 To select whether a candidate will be approved, archived, or reported, simply click on the three dots located at the top right of each vacancy.
 

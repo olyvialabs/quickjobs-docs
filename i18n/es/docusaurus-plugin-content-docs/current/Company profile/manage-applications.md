@@ -30,8 +30,21 @@ Desde aquí, puedes ir a "ver solicitudes" para ver a los candidatos que esta va
 En esta parte podras ver la informacion de cada una de las personas que estan postuladas para tu vacante, podremos ver de diferente manera esta informacion : Todos, Por vacante, En progreso, Acceptados, Archivados.
 
 <p align="center">
-  <img src="/img/manage-applications/vacancy-applications-select-desktop-es.png" width="65%"/>
+  <img src="/img/manage-applications/vacancy-applications-desktop-en.png" width="65%"/>
 </p>
+
+Puedes utilizar filtros para visualizar las aplicaciones de una manera más específica. Para hacerlo, simplemente haz clic en el menú que se encuentra en la parte superior derecha.
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-desktop-en.png" width="65%"/>
+</p>
+
+Aquí puedes filtrar por vacantes, nombre, respuestas esperadas por los candidatos y por fecha. Utilizar estos filtros te ayudará a seleccionar a los candidatos de manera más eficiente y rápida. ¡Aprovecha esta herramienta para optimizar tu proceso de selección!
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-2-desktop-en.png" width="65%"/>
+</p>
+
 
 Para poder seleccionar si el candidato sera aprovado, archivado o reportado, basta con dar clic en los 3 puntos que se encuentran en la parte superior a la derecha de cada una de las vacantes
 
@@ -96,6 +109,19 @@ En esta parte podras ver la informacion de cada una de las personas que estan po
 <p align="center">
   <img src="/img/manage-applications/vacancy-applications-select-mobile-es.png" width="300"/>
 </p>
+
+Puedes utilizar filtros para visualizar las aplicaciones de una manera más específica. Para hacerlo, simplemente haz clic en el menú que se encuentra en la parte superior derecha.
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-mobile-en.png" width="300"/>
+</p>
+
+Aquí puedes filtrar por vacantes, nombre, respuestas esperadas por los candidatos y por fecha. Utilizar estos filtros te ayudará a seleccionar a los candidatos de manera más eficiente y rápida. ¡Aprovecha esta herramienta para optimizar tu proceso de selección!
+
+<p align="center">
+  <img src="/img/manage-applications/filter-applications-2-mobile-en.png" width="300"/>
+</p>
+
 
 Para poder seleccionar si el candidato sera aprovado, archivado o reportado, basta con dar clic en los 3 puntos que se encuentran en la parte superior a la derecha de cada una de las vacantes
 
